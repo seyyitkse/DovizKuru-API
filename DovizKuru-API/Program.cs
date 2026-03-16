@@ -1,4 +1,4 @@
-using DovizKuruAPI.Services;
+using DovizKuru_API.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,7 +11,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient();
 
 // Exchange Rate Service kaydý
-builder.Services.AddSingleton<IExchangeRateService, IExchangeRateService>();
+builder.Services.AddSingleton<IExchangeRateService, ExchangeRateService>();
 
 // CORS politikasý - React uygulamasýnýn eriþimi için
 builder.Services.AddCors(options =>

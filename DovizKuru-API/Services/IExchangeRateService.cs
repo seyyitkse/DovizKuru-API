@@ -1,6 +1,6 @@
-﻿using DovizKuruAPI.Models;
+﻿using DovizKuru_API.Models;
 
-namespace DovizKuruAPI.Services
+namespace DovizKuru_API.Services
 {
     public interface IExchangeRateService
     {

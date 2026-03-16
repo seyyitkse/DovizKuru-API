@@ -1,4 +1,4 @@
-﻿namespace DovizKuruAPI.Models
+﻿namespace DovizKuru_API.Models
 {
     public class CurrencyRate
     {
