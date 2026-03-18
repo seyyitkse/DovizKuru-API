@@ -275,6 +275,13 @@ Geliştirme önerileri ve katkılar için pull request açabilirsiniz.
 
 ---
 
+## 👥 Proje Sahipleri
+
+- Ahmet Seyyit KÖSE
+- Nursena ÇAMKÖMÜRÜ
+
+---
+
 <div align="center">
 
 Made with ❤️ for currency apps
